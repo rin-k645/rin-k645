@@ -11,6 +11,8 @@ I'm a junior backend developer
 
 <a href="https://programmingiraffe.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="mailto:mwtgal20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rin_k645)](https://solved.ac/rin_k645)
 <br><br>
 
 <!-- stack -->
