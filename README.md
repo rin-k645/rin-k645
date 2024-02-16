@@ -51,4 +51,4 @@ Tool<br>
 AboutTimeCapsule | GPS 기반 타임캡슐 앱 서비스<br>
 Pick&Packer | 항공권 검색 웹 서비스<br>
 Playground | 소셜 운동 매칭 웹앱 서비스 🏆<br>
-Alone&Along | 1인 가구를 위한 식생활 케어 웹 서스 🏆
+Alone&Along | 1인 가구를 위한 식생활 케어 웹 서비스 🏆
