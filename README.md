@@ -9,8 +9,8 @@ Arin, Backend Developer
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rin_k645)](https://solved.ac/rin_k645)
 <br>
 <!-- Education -->
-SSAFY 8th (2022~2023)<br>
-Computer Science, Dongduk W. Univ (2017~2022)
+SSAFY 8th (2022 ~ 2023)<br>
+Computer Science, Dongduk W. Univ (2017 ~ 2022)
 
 <!-- Skill -->
 ### Skill
