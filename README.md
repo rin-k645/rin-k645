@@ -9,8 +9,8 @@ Arin, Backend Developer
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rin_k645)](https://solved.ac/rin_k645)
 <br>
 <!-- Education -->
-SSAFY 8th (2022 ~ 2023)<br>
-Computer Science, Dongduk W. Univ (2017 ~ 2022)
+SSAFY 8th (2022\~2023)<br>
+Computer Science, Dongduk W. Univ (2017\~2022)
 
 <!-- Skill -->
 ### Skill
@@ -48,7 +48,8 @@ Tool<br>
 
 <!-- Project -->
 ### Project
-AboutTimeCapsule | GPS 기반 타임캡슐 앱 서비스<br>
-Pick&Packer | 항공권 검색 웹 서비스<br>
-Playground | 소셜 운동 매칭 웹앱 서비스 🏆<br>
-Alone&Along | 1인 가구를 위한 식생활 케어 웹 서비스 🏆
+04note | 인테리어 기술자를 위한 앱 서비스 (2024.3\~)<br>
+AboutTimeCapsule | GPS 기반 타임캡슐 앱 서비스 (2023.4\~2023.5)<br>
+Pick&Packer | 항공권 검색 웹 서비스 (2023.2\~2023.3)<br>
+Playground | 소셜 운동 매칭 웹앱 서비스 🏆 (2023.1\~2023.2)<br>
+Alone&Along | 1인 가구를 위한 식생활 케어 웹 서비스 🏆 (2021.3\~2021.6 / 2022.1\~2021.3)
