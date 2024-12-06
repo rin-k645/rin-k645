@@ -21,8 +21,8 @@ Backend<br>
 <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat">
 <img src="https://img.shields.io/badge/QueryDsl-6DB33F?style=flat">
 <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat&logo=icloud&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
 
@@ -36,15 +36,7 @@ Frontend<br>
 <img src="https://img.shields.io/badge/Css3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
 
-Tool<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jirasoftware&logoColor=white">
-<img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-<br>
 
 <!-- Project -->
 ### Project
