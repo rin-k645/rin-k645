@@ -2,8 +2,6 @@
 [![Hits](https://hits.sh/github.com/rin-k645.svg)](https://hits.sh/github.com/rin-k645/)
 
 <!-- intruduce -->
-✨Arin, Backend Developer🌱
-
 <a href="https://programmingiraffe.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="mailto:mwtgal20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rin_k645)](https://solved.ac/rin_k645)
@@ -20,7 +18,7 @@ Backend<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-
+<img src="https://img.shields.io/badge/Clickhouse-FFCC01?style=flat&logo=clickhouse&logoColor=white">
 
 Infra<br>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
